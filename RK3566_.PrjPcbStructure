@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=HDMI PHY _ IO1.schdoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=LPDDR4X PHY_IO.schdoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=PMUIO _ VCCIO.schdoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=SD卡 PHY.schdoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=USB接口 PHY_IO.schdoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=WIFI_BT PHY.schdoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=串口 PHY.schdoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=以太网 PHY_以太网_WIFIBT IO.schdoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=引出引脚_螺纹孔.schdoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=扬声器_麦克风.schdoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=HDMI PHY _ IO1.schdoc|FileName=板载电源.schdoc|SheetNumber=7

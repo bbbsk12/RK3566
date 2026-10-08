@@ -1,0 +1,446 @@
+Removed Member From Class: ClassName=板载电源 Member=C2
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C3
+Removed Member From Class: ClassName=板载电源 Member=C3
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C4
+Removed Member From Class: ClassName=板载电源 Member=C4
+Removed Member From Class: ClassName=板载电源 Member=C6
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C11
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C12
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C15
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C19
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C22
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C24
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C27
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C36
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C39
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C43
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C44
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C47
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C48
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C52
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C53
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C55
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C58
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=C59
+Removed Member From Class: ClassName=板载电源 Member=C80
+Removed Member From Class: ClassName=扬声器_麦克风 Member=C82
+Removed Member From Class: ClassName=扬声器_麦克风 Member=C83
+Removed Member From Class: ClassName=板载电源 Member=C86
+Removed Member From Class: ClassName=板载电源 Member=C87
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C97
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C97
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C99
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C99
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C100
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C100
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C101
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C101
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C102
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C103
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C103
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C106
+Removed Member From Class: ClassName=板载电源 Member=C107
+Removed Member From Class: ClassName=板载电源 Member=C108
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C115
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C117
+Removed Member From Class: ClassName=WIFI_BT PHY Member=C117
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=C117
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C119
+Removed Member From Class: ClassName=板载电源 Member=C120
+Removed Member From Class: ClassName=板载电源 Member=C125
+Removed Member From Class: ClassName=板载电源 Member=C128
+Removed Member From Class: ClassName=板载电源 Member=C132
+Removed Member From Class: ClassName=板载电源 Member=C133
+Removed Member From Class: ClassName=板载电源 Member=C135
+Removed Member From Class: ClassName=板载电源 Member=C136
+Removed Member From Class: ClassName=板载电源 Member=C140
+Removed Member From Class: ClassName=板载电源 Member=C141
+Removed Member From Class: ClassName=板载电源 Member=C145
+Removed Member From Class: ClassName=板载电源 Member=C147
+Removed Member From Class: ClassName=板载电源 Member=C148
+Removed Member From Class: ClassName=板载电源 Member=C150
+Removed Member From Class: ClassName=板载电源 Member=C152
+Removed Member From Class: ClassName=板载电源 Member=C153
+Removed Member From Class: ClassName=板载电源 Member=C155
+Removed Member From Class: ClassName=板载电源 Member=C160
+Removed Member From Class: ClassName=板载电源 Member=C169
+Removed Member From Class: ClassName=板载电源 Member=C175
+Removed Member From Class: ClassName=板载电源 Member=C176
+Removed Member From Class: ClassName=板载电源 Member=C179
+Removed Member From Class: ClassName=板载电源 Member=C180
+Removed Member From Class: ClassName=板载电源 Member=C181
+Removed Member From Class: ClassName=板载电源 Member=C184
+Removed Member From Class: ClassName=板载电源 Member=C185
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C191
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C192
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C194
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=C194
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C198
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=C198
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C200
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=C207
+Removed Member From Class: ClassName=SD卡 PHY Member=CARD1
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D13
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D17
+Removed Member From Class: ClassName=SD卡 PHY Member=D19
+Removed Member From Class: ClassName=SD卡 PHY Member=D20
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D22
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D23
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D25
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D27
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D28
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=D29
+Removed Member From Class: ClassName=板载电源 Member=D30
+Removed Member From Class: ClassName=板载电源 Member=D31
+Removed Member From Class: ClassName=板载电源 Member=DC1
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=J1
+Removed Member From Class: ClassName=扬声器_麦克风 Member=L2
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=L5
+Removed Member From Class: ClassName=扬声器_麦克风 Member=L5
+Removed Member From Class: ClassName=WIFI_BT PHY Member=L8
+Removed Member From Class: ClassName=板载电源 Member=L8
+Removed Member From Class: ClassName=板载电源 Member=L13
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=L15
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=L15
+Removed Member From Class: ClassName=板载电源 Member=L15
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=L17
+Removed Member From Class: ClassName=扬声器_麦克风 Member=L17
+Removed Member From Class: ClassName=板载电源 Member=L17
+Removed Member From Class: ClassName=板载电源 Member=LED1
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R1
+Removed Member From Class: ClassName=板载电源 Member=R1
+Removed Member From Class: ClassName=板载电源 Member=R2
+Removed Member From Class: ClassName=板载电源 Member=R4
+Removed Member From Class: ClassName=板载电源 Member=R5
+Removed Member From Class: ClassName=板载电源 Member=R7
+Removed Member From Class: ClassName=板载电源 Member=R8
+Removed Member From Class: ClassName=板载电源 Member=R9
+Removed Member From Class: ClassName=SD卡 PHY Member=R13
+Removed Member From Class: ClassName=板载电源 Member=R13
+Removed Member From Class: ClassName=SD卡 PHY Member=R14
+Removed Member From Class: ClassName=串口 PHY Member=R15
+Removed Member From Class: ClassName=串口 PHY Member=R16
+Removed Member From Class: ClassName=扬声器_麦克风 Member=R18
+Removed Member From Class: ClassName=WIFI_BT PHY Member=R21
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R21
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R23
+Removed Member From Class: ClassName=板载电源 Member=R23
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R24
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R27
+Removed Member From Class: ClassName=板载电源 Member=R27
+Removed Member From Class: ClassName=板载电源 Member=R28
+Removed Member From Class: ClassName=板载电源 Member=R29
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R30
+Removed Member From Class: ClassName=板载电源 Member=R30
+Removed Member From Class: ClassName=板载电源 Member=R31
+Removed Member From Class: ClassName=板载电源 Member=R33
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R36
+Removed Member From Class: ClassName=扬声器_麦克风 Member=R36
+Removed Member From Class: ClassName=WIFI_BT PHY Member=R38
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R39
+Removed Member From Class: ClassName=WIFI_BT PHY Member=R39
+Removed Member From Class: ClassName=板载电源 Member=R47
+Removed Member From Class: ClassName=板载电源 Member=R50
+Removed Member From Class: ClassName=板载电源 Member=R52
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R56
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R58
+Removed Member From Class: ClassName=WIFI_BT PHY Member=R58
+Removed Member From Class: ClassName=板载电源 Member=R62
+Removed Member From Class: ClassName=板载电源 Member=R69
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R76
+Removed Member From Class: ClassName=SD卡 PHY Member=R86
+Removed Member From Class: ClassName=SD卡 PHY Member=R88
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R90
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R91
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=R93
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R93
+Removed Member From Class: ClassName=板载电源 Member=R99
+Removed Member From Class: ClassName=板载电源 Member=R100
+Removed Member From Class: ClassName=板载电源 Member=R101
+Removed Member From Class: ClassName=板载电源 Member=R104
+Removed Member From Class: ClassName=板载电源 Member=R105
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=R107
+Removed Member From Class: ClassName=板载电源 Member=R107
+Removed Member From Class: ClassName=LPDDR4X PHY_IO Member=R109
+Removed Member From Class: ClassName=板载电源 Member=R109
+Removed Member From Class: ClassName=板载电源 Member=R110
+Removed Member From Class: ClassName=WIFI_BT PHY Member=RF1
+Removed Member From Class: ClassName=板载电源 Member=SW1
+Removed Member From Class: ClassName=板载电源 Member=SW3
+Removed Member From Class: ClassName=板载电源 Member=U6
+Removed Member From Class: ClassName=板载电源 Member=U8
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=U10
+Removed Member From Class: ClassName=WIFI_BT PHY Member=U10
+Removed Member From Class: ClassName=板载电源 Member=U10
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=U11
+Removed Member From Class: ClassName=板载电源 Member=U11
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=USB2
+Removed Member From Class: ClassName=USB接口 PHY_IO Member=USB3
+Removed Member From Class: ClassName=板载电源 Member=X1
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=X3
+Change Class Name : Old Net Name=LPDDR4X PHY_IO New Net Name=板载电源
+Change Class Name : Old Net Name=SD卡 PHY New Net Name=HDMI PHY _ IO1
+Change Class Name : Old Net Name=USB接口 PHY_IO New Net Name=PMUIO _ VCCIO
+Change Class Name : Old Net Name=WIFI_BT PHY New Net Name=以太网 PHY_以太网_WIFIBT IO
+Change Class Name : Old Net Name=以太网 PHY_以太网_WIFIBT IO New Net Name=USB接口 PHY_IO
+Change Class Name : Old Net Name=板载电源 New Net Name=LPDDR4X PHY_IO
+Added Class: Name=SD卡 PHY
+Added Class: Name=WIFI_BT PHY
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component C1 100nF
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component C2 1uF
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component C3 1uF
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component C4 100nF
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component C5 100nF
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component C6 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C8 10uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C9 10uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C10 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C13 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C14 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C16 10uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C18 10uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C21 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C23 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C26 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C28 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C29 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C31 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C32 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C33 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C34 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C37 10uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C40 10uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C41 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C46 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C49 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C50 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C54 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C56 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C57 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C60 4.7uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C61 4.7uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C62 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C63 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C64 100nF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C65 4.7uF
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component C66 10uF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C67 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C68 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C69 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C70 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C71 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C72 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C73 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C74 1uF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C75 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C76 1uF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C77 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C78 1uF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C79 100nF
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component C85 12pF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C86 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C87 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C88 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C89 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C90 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C91 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C92 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C93 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C94 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C96 22uF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C98 100nF
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component C104 22uF
+Added Member To Class: ClassName=板载电源 Member=Component C120 18pF
+Added Member To Class: ClassName=板载电源 Member=Component C121 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C122 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C123 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C124 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C125 100uF
+Added Member To Class: ClassName=板载电源 Member=Component C126 18pF
+Added Member To Class: ClassName=板载电源 Member=Component C127 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C129 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C130 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C131 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C134 22uF
+Added Member To Class: ClassName=板载电源 Member=Component C137 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C138 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C139 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C142 75pF
+Added Member To Class: ClassName=板载电源 Member=Component C143 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C144 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C146 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C151 22uF
+Added Member To Class: ClassName=板载电源 Member=Component C154 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C158 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C159 75pF
+Added Member To Class: ClassName=板载电源 Member=Component C161 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C162 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C163 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C164 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C165 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C167 22uF
+Added Member To Class: ClassName=板载电源 Member=Component C168 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C170 10uF
+Added Member To Class: ClassName=板载电源 Member=Component C172 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C173 100nF
+Added Member To Class: ClassName=板载电源 Member=Component C174 22uF
+Added Member To Class: ClassName=板载电源 Member=Component C182 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C183 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C186 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C187 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C188 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C189 1uF
+Added Member To Class: ClassName=板载电源 Member=Component C190 1uF
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component C193 100nF
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component C194 30pF
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component C195 10uF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C196 100nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C197 18pF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C199 1nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C201 100nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C202 100nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C203 10uF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C204 100nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C205 100nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C206 10uF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C208 1uF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C209 100nF
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component C210 100nF
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D1 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D2 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D3 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D4 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D5 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D6 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D7 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D8 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D13 BDFN1C051R
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component D14 B5819WS
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D22 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D23 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D24 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D25 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D26 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D27 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D28 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D29 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D30 BDFN1C051R
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component D31 BDFN1C051R
+Added Member To Class: ClassName=板载电源 Member=Component D32 SS54
+Added Member To Class: ClassName=板载电源 Member=Component D33 BAT54CT-TP
+Added Member To Class: ClassName=板载电源 Member=Component DC1 DC-005-A200
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component J1 HR911105A
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component L1 DLW21SN900SQ2L
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component L3 DLW21SN900SQ2L
+Added Member To Class: ClassName=板载电源 Member=Component L5 10uH
+Added Member To Class: ClassName=板载电源 Member=Component L6 470nH
+Added Member To Class: ClassName=板载电源 Member=Component L7 10uH
+Added Member To Class: ClassName=板载电源 Member=Component L8 470nH
+Added Member To Class: ClassName=板载电源 Member=Component L9 FTC252010S4R7MBCA
+Added Member To Class: ClassName=板载电源 Member=Component L10 470nH
+Added Member To Class: ClassName=板载电源 Member=Component L11 470nH
+Added Member To Class: ClassName=板载电源 Member=Component L12 470nH
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component L13 BLM15PD121SN1D
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component L14 BLM15PD121SN1D
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component L15 BLM15PD121SN1D
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component L16 BLM15PD121SN1D
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component L17 BLM15PD121SN1D
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component LED1 GL0603UG01
+Added Member To Class: ClassName=板载电源 Member=Component LED2 GL0603UG01
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component Q1 2SK3018T106
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component Q2 2SK3018
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component Q3 2SK3018
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R1 1.62kΩ
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R2 1kΩ
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R3 100kΩ
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R4 27kΩ
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R5 10kΩ
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R6 1.8kΩ
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component R8 1.8kΩ
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component R11 240Ω
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component R12 240Ω
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component R13 22Ω
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component R14 22Ω
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component R17 22Ω
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component R19 22Ω
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component R22 22Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R34 2.2Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R35 2.2Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R36 2.2Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R37 2.2Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R40 2.2Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R42 0Ω
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R43 10kΩ
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R46 10kΩ
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R48 15kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R59 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R60 22Ω
+Added Member To Class: ClassName=板载电源 Member=Component R61 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R62 0Ω
+Added Member To Class: ClassName=板载电源 Member=Component R63 100Ω
+Added Member To Class: ClassName=板载电源 Member=Component R64 100Ω
+Added Member To Class: ClassName=板载电源 Member=Component R65 68kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R66 49.9Ω
+Added Member To Class: ClassName=板载电源 Member=Component R67 511kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R68 105kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R70 100kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R71 13.3kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R72 0Ω
+Added Member To Class: ClassName=板载电源 Member=Component R73 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R74 1kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R75 49.9Ω
+Added Member To Class: ClassName=板载电源 Member=Component R76 100Ω
+Added Member To Class: ClassName=板载电源 Member=Component R77 511kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R78 105kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R79 100kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R80 22kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R81 100Ω
+Added Member To Class: ClassName=板载电源 Member=Component R82 0Ω
+Added Member To Class: ClassName=板载电源 Member=Component R83 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R84 40.2kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R85 100kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R86 100Ω
+Added Member To Class: ClassName=板载电源 Member=Component R87 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R88 100kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R89 100Ω
+Added Member To Class: ClassName=串口 PHY Member=Component R90 22Ω
+Added Member To Class: ClassName=串口 PHY Member=Component R91 22Ω
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component R92 2.2kΩ
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component R93 2.2kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R94 10kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R95 1MΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R96 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R98 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R99 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R100 12.1kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R101 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R102 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R103 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R104 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R105 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R106 10kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R107 49.9Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R108 49.9Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R109 49.9Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R110 49.9Ω
+Added Member To Class: ClassName=板载电源 Member=Component SW1 SS-12D10L5
+Added Member To Class: ClassName=板载电源 Member=Component SW2 KH-6X6X5H-STM
+Added Member To Class: ClassName=板载电源 Member=Component SW3 KH-6X6X5H-STM
+Added Member To Class: ClassName=板载电源 Member=Component U1 RK3566
+Added Member To Class: ClassName=LPDDR4X PHY_IO Member=Component U2 MT53D1024M32D4DT-046 WT:D
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component U3 HC-USB3.0-L168-WP
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component U4 TPS2121RUXR
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component U5 SY6280AAC
+Added Member To Class: ClassName=板载电源 Member=Component U8 RK809-5
+Added Member To Class: ClassName=板载电源 Member=Component U10 XDCR-1220-006
+Added Member To Class: ClassName=板载电源 Member=Component U11 TPS54302DDCR
+Added Member To Class: ClassName=板载电源 Member=Component U12 TPS54302DDCR
+Added Member To Class: ClassName=板载电源 Member=Component U13 LGS5116B
+Added Member To Class: ClassName=板载电源 Member=Component U14 TLV7011DCKR
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component U15 LAN8720AI-CP-ABC
+Added Member To Class: ClassName=HDMI PHY _ IO1 Member=Component USB1 HDMI-001S
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component USB2 AF 90 WJDG
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component USB3 TYPE-C 16PIN 2MD(073)
+Added Member To Class: ClassName=PMUIO _ VCCIO Member=Component X1 XL2EL89COI-111YLC-24M
+Added Member To Class: ClassName=板载电源 Member=Component X2 32.768kHz
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component X3 25MHz
