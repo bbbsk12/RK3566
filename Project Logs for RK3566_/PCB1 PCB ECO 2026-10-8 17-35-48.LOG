@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC134_2 Pin=R62-1
+Removed Member From Class: ClassName=∞Â‘ÿµÁ‘¥ Member=R62
+Added Pin To Net: NetName=NetC134_2 Pin=C101-2
+Added Pin To Net: NetName=NetC134_2 Pin=R50-2
+Added Pin To Net: NetName=NetC134_2 Pin=U4-7
+Change Net Name : Old Net Name=NetC134_2 New Net Name=SYS0_5V

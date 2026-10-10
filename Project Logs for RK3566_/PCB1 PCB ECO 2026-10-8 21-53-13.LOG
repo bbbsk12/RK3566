@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetCN2_1 Pin=SPK1-1
+Removed Pin From Net: NetName=NetCN2_2 Pin=SPK1-2
+Removed Member From Class: ClassName=WIFI_BT PHY Member=R49
+Removed Member From Class: ClassName=WIFI_BT PHY Member=R50
+Removed Member From Class: ClassName=串口 PHY Member=R83
+Removed Member From Class: ClassName=扬声器_麦克风 Member=R85
+Removed Member From Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=R86
+Removed Member From Class: ClassName=扬声器_麦克风 Member=SPK1
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component CN1 LAIL-PHC2.0-2P-01-PH-L
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R44 20kΩ
+Added Member To Class: ClassName=USB接口 PHY_IO Member=Component R46 15kΩ
+Added Member To Class: ClassName=WIFI_BT PHY Member=Component R51 22Ω
+Added Member To Class: ClassName=WIFI_BT PHY Member=Component R52 22Ω
+Added Member To Class: ClassName=WIFI_BT PHY Member=Component R56 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R59 10kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R63 49.9Ω
+Added Member To Class: ClassName=板载电源 Member=Component R64 511kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R68 13.3kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R74 105kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R75 100kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R76 22kΩ
+Added Member To Class: ClassName=板载电源 Member=Component R81 100kΩ
+Added Member To Class: ClassName=串口 PHY Member=Component R87 22Ω
+Added Member To Class: ClassName=扬声器_麦克风 Member=Component R89 2.2kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R90 10kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R96 12.1kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R101 22Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R102 10kΩ
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R103 49.9Ω
+Added Member To Class: ClassName=以太网 PHY_以太网_WIFIBT IO Member=Component R105 49.9Ω

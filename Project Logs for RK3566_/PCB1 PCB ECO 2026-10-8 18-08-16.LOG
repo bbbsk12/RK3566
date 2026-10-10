@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SYS_3V3 Pin=R72-2
+Removed Member From Class: ClassName=∞Â‘ÿµÁ‘¥ Member=R72
+Added Pin To Net: NetName=SYS_3V3 Pin=C151-2
+Added Pin To Net: NetName=SYS_3V3 Pin=C152-2
+Added Pin To Net: NetName=SYS_3V3 Pin=L7-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R75-2
